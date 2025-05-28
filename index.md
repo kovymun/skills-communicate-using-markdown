@@ -13,3 +13,7 @@
 const fullName = "Tony"
 console.log(fullName)
 ```
+### Shopping List
+- [x] Fruits
+- [ ] Candy
+- [ ] Meat
